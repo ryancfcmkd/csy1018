@@ -14,3 +14,17 @@ background-color: rgb(129, 163, 191);
 padding: 30px;
 color: #333;
 }
+a:link {color: red}
+a:hover{color: hotpink}
+a:visited{color: green}
+/*all heading styles */
+h1, h2, h3{
+  margin-bottom: 21px;
+}
+/*indiviual heading styles*/
+h1{font-size:36px ;
+line-height:40px; }
+h2{font-size:24px ;
+line-height:28px }
+h3{font-size:18px ;
+line-height:22px ;}    
